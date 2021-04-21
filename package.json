@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepack": "echo 'prepack ran!"
+    "prepack": "echo 'prepack ran!",
+    "prepare": "echo 'prepare ran!'"
   },
   "keywords": [
     "node",
